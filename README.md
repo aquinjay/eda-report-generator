@@ -11,13 +11,11 @@ There is reduendancy between reports but they all have their own flavors that ma
 ### Requirements
 After making your virtual environment, you will need to install the following modules:
 - click
-- os
-- pandas
 - dataprep
 - ydata-profiling
 - sweetviz
 
-Be sure to use a python version 3.10. Double check the reporting package requirements to be sure you have the Package requirements you need.
+Be sure to use a python version 3.10.
 
 ### How to use
 

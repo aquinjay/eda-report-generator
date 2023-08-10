@@ -22,10 +22,14 @@ Be sure to use a python version equal to or before 3.10.6 but after 3.7. 3.10.6 
 ### How to use
 
 Open the command line (not tested on windows machines yet) and run:
-`python report-generator.py file_name`
+```cmd
+python report-generator.py file_name
+```
 
 You can also generate individual reports using the report flag:
-`python report-generator.py file_name --report ydata`
+```cmd
+python report-generator.py file_name --report ydata
+```
 
 You can also pass dataprep or sweetviz instead. By default all reports are generated.
 

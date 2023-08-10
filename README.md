@@ -8,7 +8,8 @@ This code base relies on 3 modules to generate reports:
 - [Dataprep](https://dataprep.ai)
 - [Sweetviz](https://github.com/fbdesignpro/sweetviz)
 
-There is reduendancy between reports but they all have their own flavors that make it nice to use all three.
+Check them out if you want to tinker, clean, and explore beyond the scope of this script.
+Note, there is reduendancy between reports but they all have their own flavors that make it nice to view all three.
 
 ### Requirements
 After making your virtual environment, you will need to install the following modules:

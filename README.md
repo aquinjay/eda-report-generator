@@ -35,4 +35,6 @@ python report-generator.py file_name --report ydata
 
 You can also pass `dataprep` or `sweetviz` instead. By default all reports are generated.
 
+After running the script, you will see 3 new .html files that you can open using your browser.
+
 So far csv, xlsx, json, and pkl files are supported. Will consider and test for more as needed.

@@ -17,7 +17,7 @@ After making your virtual environment, you will need to install the following mo
 - ydata-profiling
 - sweetviz
 
-Be sure to use a python version equal to or before 3.10.6 but after 3.7. 3.10.6 worked for me.
+Be sure to use a python version equal to or before 3.10.6 but after 3.7. 3.10.6 worked for me. Double check the reporting package requirements to be sure you have the Package requirements you need.
 
 ### How to use
 

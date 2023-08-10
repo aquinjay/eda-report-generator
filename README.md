@@ -31,6 +31,6 @@ You can also generate individual reports using the report flag:
 python report-generator.py file_name --report ydata
 ```
 
-You can also pass dataprep or sweetviz instead. By default all reports are generated.
+You can also pass `dataprep` or `sweetviz` instead. By default all reports are generated.
 
 So far csv, xlsx, json, and pkl files are supported. Will consider and test for more as needed.

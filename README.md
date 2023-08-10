@@ -1,6 +1,8 @@
 # EDA Report Generator
 This script helps users automaticaly generate exploratory data analysis reports to get to know their data.
 
+If you find this project helpful, consider staring this repo or making a donation to support this and future projects here via GitHub Sponsers: https://github.com/sponsors/aquinjay. 
+
 This code base relies on 3 modules to generate reports:
 - [Ydata](https://ydata-profiling.ydata.ai/docs/master/index.html)
 - [Dataprep](https://dataprep.ai)
@@ -19,7 +21,8 @@ Be sure to use python version 3.10.
 
 ### How to use
 
-Open the command line (not tested on windows machines yet) and run:
+Copy and paste the `report_generator.py` file into the directory your data is located in.
+Open the command line and cd into your working directory (not tested on windows machines yet) and run:
 ```cmd
 python report-generator.py file_name
 ```

@@ -21,7 +21,7 @@ Be sure to use python version 3.10.
 
 ### How to use
 
-Copy and paste the `report_generator.py` file into the directory your data is located in.
+Clone the repo and copy the `report_generator.py` file or copy and paste the `report_generator.py` file into the directory your data is located in.
 Open the command line and cd into your working directory (not tested on windows machines yet) and run:
 ```cmd
 python report-generator.py file_name

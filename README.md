@@ -15,7 +15,7 @@ After making your virtual environment, you will need to install the following mo
 - ydata-profiling
 - sweetviz
 
-Be sure to use a python version 3.10.
+Be sure to use python version 3.10.
 
 ### How to use
 
